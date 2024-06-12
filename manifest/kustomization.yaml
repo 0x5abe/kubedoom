@@ -1,5 +1,6 @@
 ---
 resources:
   - namespace.yaml
-  - deployment.yaml
+  - statefulSet.yaml
   - rbac.yaml
+  - loadBalancers.yaml
